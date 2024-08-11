@@ -10,7 +10,7 @@ class CalculatorScreenMain extends StatelessWidget {
         backgroundColor: Colors.teal,
         title: Text(
           'Calculator',
-          style: TextStyle(fontSize: 18.0, color: Colors.black87),
+          style: TextStyle(fontSize: 20.0, color: Colors.black87),
         ),
         centerTitle: true,
       ),
